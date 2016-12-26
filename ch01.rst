@@ -1,0 +1,43 @@
+01. YIELD
+=========
+
+我们先来聊聊 yield 这个单词。
+
+所有学编程的人应该都认识 return 吧。单从词汇角度看，这个词含义简单清晰，就是“返回”。在编程中，我们把 return 放到函数的结尾，表示让函数执行到这句以后“返回”它的上一级程序，如果带上一个值的话，就连这个值也一起“返回”了。就这么简单。
+
+Yield 这个词的难度系数，对于母语是英语的人来说，和 return 其实是处于一个级别的。但英语作为我们的第二语言，我们见到和用到这个词的机会其实不多。字典上说 yield 的意思主要有两个，一个是“出产，产出”，一个是“出让，放弃”，前者我们用 produce，后者我们用 give up 或者 surrender，yield 似乎没有存在的必要，直到它成为一个编程的关键字。
+
+在 Python 中，yield
+
+例句
+
+以下内容摘抄自陆谷孙老师编撰的《英汉大辞典》：
+
+1. 出产，产出：The cow yields milk twice a day. 这头奶牛一天产两次奶。英语四级以上的人估计会在这里用 produce，意思是一样的。
+
+GMOs can improve crop yield and greatly enhance the nutritional value of those same crops.
+一样的农作物，转基因可以提升它们的产出，并且大幅度增加它们的营养价值。
+Richard J. Roberts，分子生物学家，诺贝尔奖得主
+
+
+Man's nature is not essentially evil. Brute nature has been known to yield to the influence of love. You must never despair of human nature. 
+
+人性非本恶。我们知道，生性强暴之人也会屈从于仁爱的感召。你们千万不要对人性失去希望。
+
+甘地
+
+
+The only way to get rid of temptation is to yield to it... I can resist everything but temptation.
+
+唯一消除诱惑的方法就是屈服于诱惑……
+
+唯一
+
+2. 让出，放弃：
+
+TODO: 引用名言
+TODO: https://www.brainyquote.com/quotes/keywords/yield.html
+TODO: http://www.goodreads.com/quotes/tag/yield
+
+the victory will go
+to the one that knows how to yield. 老子
