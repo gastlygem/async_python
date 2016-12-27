@@ -14,6 +14,7 @@ Async Python
    ch00
    ch01
    ch02
+   generator
 
 
 Indices and tables
